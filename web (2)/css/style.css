@@ -155,11 +155,45 @@ a.simpleCart_empty {
 	padding:0.6em 0;
 }
 .banner{
-	background: url("../images/banner1.jpg") no-repeat;
+	/*background: url("../images/banner1.jpg") no-repeat;*/
 	min-height: 450px;
+	
 	background-size: cover;
 	position: relative;
 }
+.container1 {
+  width: 100%;
+  height: 500px;
+  position: relative;
+}
+.container1 .other-content {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  text-align: center;
+  z-index: 2;
+  padding: 30px;
+  font-size: 50px;
+  color: white;
+}
+.container1 .slide {
+  z-index: 1;
+  position: absolute;
+  width: 100%;
+  top: 0;
+  left: 0;
+  height: 100%;
+  transition: opacity 1s ease-in-out;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 0;
+}
+.container1 .slide.show {
+  opacity: 1;
+}
+
 .banner-info-head h1{
 	color:#FFFFFF;
 	font-size:3em;
