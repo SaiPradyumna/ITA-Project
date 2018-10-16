@@ -466,7 +466,21 @@ h3.recent{
 	outline:none;
 }
 
-
+.footer{
+	padding:2em 1em;
+	background:#4D4D4D;
+}
+.footer p{
+	color:#5BBD50;
+	font-size:16px;
+	font-weight:500;
+}
+.footer a{
+	color:#FFF;
+}
+.footer a:hover{
+	color:#5BBD50;
+}
 
 .login-page {
 	padding: 2em 0;
