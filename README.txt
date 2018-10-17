@@ -1,8 +1,4 @@
-A Pen created at CodePen.io. You can find this one at https://codepen.io/aecend/pen/JoLzqr.
-
- Glass-like login form with CSS3 flickering effect. Click submit button to toggle between valid and invalid states.
- 
- # Internet Technology and Applications project (CO368)
+# Internet Technology and Applications project (CO368)
 
 ## NIGHT CANTEEN MANAGER
 
@@ -23,3 +19,6 @@ This website is used by NITK students to order food from night canteens . Using 
  ## Objective
  
  
+A Pen created at CodePen.io. You can find this one at https://codepen.io/aecend/pen/JoLzqr.
+
+ Glass-like login form with CSS3 flickering effect. Click submit button to toggle between valid and invalid states.
