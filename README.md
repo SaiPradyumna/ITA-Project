@@ -16,9 +16,4 @@ Its purpose is to provide an online facility to our college night canteens. Its 
 This website is used by NITK students to order food from night canteens . Using this website student gets a clear picture of what all night canteens are available and the food items that are provided by the respective canteens .
 
  
- ## Objective
  
- 
-A Pen created at CodePen.io. You can find this one at https://codepen.io/aecend/pen/JoLzqr.
-
- Glass-like login form with CSS3 flickering effect. Click submit button to toggle between valid and invalid states.
